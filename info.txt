@@ -1,0 +1,6 @@
+node -v - to check the version 
+if its not install then install 
+ro select directory - cd (dir name)
+to create - npx create-react-app (app name)
+to open in vs code -code .
+ 
