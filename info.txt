@@ -3,14 +3,28 @@ if its not install then install
 ro select directory - cd (dir name)
 to create - npx create-react-app (app name)
 to open in vs code -code .
-
+to start app - npm run start
+=====================================================================
 For adding repositry and push to GITHUB
 https://docs.github.com/en/get-started/
 importing-your-projects-to-github/importing-source-code-to-github/
 adding-locally-hosted-code-to-github
- 
+=====================================================================
+setup gethub with hosting
+https://www.youtube.com/watch?v=rKGqftUcRRY
+===================================================================== 
  SFC (stateless function component)
-
+=====================================================================
  to run jason server to browser
- npx json-server --watch data/db.json --port 8000
+ (npx json-server --watch data/db.json --port 8000)
+=====================================================================
+ react router
+ you need to install react router,because it s not part of react liabrary
+ --- command- (npm install react-router-dom@5)
+=====================================================================
+sfc means statless functional component
+
+=====================================================================
+
+
  no.20
